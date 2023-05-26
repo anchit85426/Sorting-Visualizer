@@ -1,0 +1,1 @@
+{"name":"Local: kssa","url":"d:\\software\\dev\\sorting-visualizer\\.vscode\\kssa.cpp","tests":[{"id":1684944727686,"input":"4\n12\n((())))(()()\n4\n)(()\n8\n))((()()\n3\n(()\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\software\\dev\\sorting-visualizer\\.vscode\\kssa.cpp","group":"local","local":true}

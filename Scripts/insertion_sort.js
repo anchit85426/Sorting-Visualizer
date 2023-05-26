@@ -1,5 +1,4 @@
 var con=document.getElementById("bar");
-console.log(alert(2));
 var no_bars=document.getElementById("arr_size");
 var n=no_bars.value;
 function insertion(){

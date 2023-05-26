@@ -1,5 +1,4 @@
 var con=document.getElementById("bar");
-console.log(alert(2));
 var no_bars=document.getElementById("arr_size");
 function bubble()
 {

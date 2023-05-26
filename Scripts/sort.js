@@ -1,4 +1,3 @@
-console.log(alert(1));
 var div_sizes=[];
 var div=[];
 var con=document.getElementById("bar");
